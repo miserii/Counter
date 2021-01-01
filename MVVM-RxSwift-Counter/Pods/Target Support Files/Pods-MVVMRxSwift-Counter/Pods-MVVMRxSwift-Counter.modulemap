@@ -1,0 +1,6 @@
+framework module Pods_MVVMRxSwift_Counter {
+  umbrella header "Pods-MVVMRxSwift-Counter-umbrella.h"
+
+  export *
+  module * { export * }
+}
